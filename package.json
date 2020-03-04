@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "just for learn",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "imap": "^0.8.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "try"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasitu/nodeLearning.git"
+  },
+  "author": "Evan He",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasitu/nodeLearning/issues"
+  },
+  "homepage": "https://github.com/dasitu/nodeLearning#readme"
+}
